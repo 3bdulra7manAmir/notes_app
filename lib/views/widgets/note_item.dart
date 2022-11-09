@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:notes_app/views/edit_note_view.dart';
+//import 'notes_list_view.dart';
 
 class NoteItem extends StatelessWidget
 {
@@ -25,6 +26,7 @@ class NoteItem extends StatelessWidget
       (
         decoration: BoxDecoration
         (
+          //
           color: const Color(0xffFFCC80),
           borderRadius: BorderRadius.circular(16),
         ),
