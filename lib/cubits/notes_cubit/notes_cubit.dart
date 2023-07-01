@@ -4,7 +4,6 @@ import 'package:meta/meta.dart';
 import 'package:notes_app/constants.dart';
 import 'package:notes_app/models/note_model.dart';
 
-import '../../constants.dart';
 
 part 'notes_state.dart';
 
